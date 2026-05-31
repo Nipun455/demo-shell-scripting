@@ -1,0 +1,11 @@
+#!/bin/bash
+
+<<info  
+
+This shell script checks user exist or not
+
+info
+
+read "Enter the username you wish to check " username
+
+
